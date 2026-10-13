@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Panichatkz
-- 👀 I’m interested in Software Development, DevOps and Cloud and AI technologies
-- 🌱 I’m currently learning Deep Neural Networks
+- 👀 I’m interested in Software Engineering, DevOps and Cloud and AI technologies- 
 - 💞️ I’m looking to collaborate on DevOps, Cloud and AI technologies
 - 📫 How to reach me stephen.mutua@gmail.com
 
